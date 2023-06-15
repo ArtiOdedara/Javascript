@@ -1,11 +1,8 @@
 # Javascript
 
-Using https://jsonplaceholder.typicode.com/ 's APIs create a project [html, css & js only] where you have to,
+Using https://jsonplaceholder.typicode.com/ 's APIs create a project [html, css & js only] where,
 - list all posts, along with name of the user who has created that post
 - below each post list all the comments associated with that post for all posts
-[ See the structure of posts and comments objects to figure out how they are related to each other ]
-
-Design is up to you, try to make it as appealing as possible, and approach the problem in stages so that if you can't finish it, you will have something to share,
 
 1. list all posts,
 2. list all comments,
