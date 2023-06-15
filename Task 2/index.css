@@ -1,0 +1,33 @@
+#allPosts{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 25px;
+  margin: 20px 5px;
+}
+
+.elements{
+  max-width: 600px;
+  border: 0.5px solid rgb(214, 206, 206) ;
+  border-radius: 8px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.headerDiv{
+  padding: 1rem;
+  /* background-color: rgb(187, 187, 224); */
+  background-color: #94c3e9;
+}
+
+.headerDiv h5{
+  margin: 0;
+}
+
+hr{
+  padding: 0;
+  margin: 0;
+}
+
+.commentsUl{
+  list-style-type: none;
+}
